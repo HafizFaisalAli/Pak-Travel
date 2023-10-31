@@ -5,6 +5,6 @@ This is the second bootstrap assignment we are making in a traveling one where w
 in this we use ......
 1: HTML
 2: CSS
-3: Bootstrap "Grid, Navbar, MOdel, Card, Form, Buttons & more"
+3: Bootstrap
 4: JavaScript
 
