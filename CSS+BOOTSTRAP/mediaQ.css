@@ -1,0 +1,441 @@
+@media(min-width:1124.1px) and (max-width:1300px){
+    .areaA h1{
+        font-size: 35px;
+    }
+    .areaA p{
+        width: 500px;
+    }
+    .videoarea .areaB video{
+        width: 400px;
+        margin-top: 60px ;
+    }
+
+}
+
+@media(min-width:931px) and (max-width:1124px){
+    .videoarea{
+        text-align: center;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .areaA h1{
+        font-size: 40px;
+    }
+    .areaA p{
+        width: 700px;
+        font-size: 15px;
+    }
+    .videoarea .areaB video{
+        width: 800px;
+        margin-top: 30px ;
+        margin-left: 20px;
+    }
+
+}
+
+@media (min-width:930px) and (max-width:991px){
+    .top:hover{
+        border: none;
+        color: gold;
+        font-size: 20px;
+        font-weight: bold;
+    }
+    .navbar-nav{
+        position: absolute;
+        right: 0;
+        left: 0;
+         margin: auto;
+        width: 400px;
+        background: linear-gradient(rgba(234, 173, 4, 0.962),rgba(29, 31, 31, 0.511));
+        transition: 0.5s;
+        border-radius: 5px ;
+        padding: 20px 0px ;
+    }
+    .mycol{
+        font-size: 50px;
+    }
+    .mycola{
+        font-size: 30px;
+    }
+    .services .servicetext{
+        font-size: 30px;
+        padding-left: 55px;
+    }
+    .imgserviceA img{
+        width: 180px;
+        border-radius: 18px;
+    }
+    
+    .guideimg img{
+        width: 180px;
+        border-radius: 18px;
+    }
+    .guideimg p{
+        font-size: 17px;
+    }
+    .offer img{
+        width: 180px;
+        border-radius: 18px;
+    }
+    .offer p{
+        font-size: 17px;
+    }
+    .navbarlast{
+        padding-left: 30px;
+    }
+    .navbarlast h1{
+        font-size: 17px;
+    }
+    .navbarlast li{
+        font-size: 14px;
+    }
+    .lastpost{
+        padding-left: 20px;
+    }
+    .lastpost h1{
+        font-size: 20px;
+    }
+    .lastp p{
+        font-size: 14px;
+    }
+    .lastpost .lastp img{
+        width: 100px;
+        padding: 3px;
+    }
+    .lastp p{
+        width: 400px;
+        padding-left: 3px;
+    }
+    .follow h1{
+        font-size: 20px;
+    }
+    .follow p{
+        font-size: 14px;
+    }
+    .follow img{
+        width: 180px;
+    }
+}
+
+@media (min-width:700px) and (max-width:929.0px){
+        .top:hover{
+            border: none;
+            color: gold;
+            font-size: 17px;
+            font-weight: bold;
+        }
+        .navbar-nav{
+            position: absolute;
+            right: 0;
+            left: 0;
+            margin: auto;
+            width: 350px;
+            background: linear-gradient(rgba(234, 173, 4, 0.962),rgba(29, 31, 31, 0.511));
+            transition: 0.5s;
+            border-radius: 5px ;
+            padding: 20px 0px ;
+        }
+        .mycol{
+            font-size: 40px;
+        }
+        .mycola{
+            font-size: 25px;
+        }
+        .mycolb{
+            font-size: 12px;
+            width:500px;
+        }
+        .services .servicetext{
+            font-size: 25px;
+            padding-left: 35px;
+        }
+
+        .imgserviceA img{
+            width: 140px;
+            border-radius: 18px;
+        }
+        .videoarea{
+            text-align: center;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        .areaA h1{
+            font-size: 30px;
+        }
+        .areaA p{
+            margin-top: 1px;
+            font-size: 15px;
+        }
+        .videoarea .areaB video{
+            width: 600px;
+            padding: 2px;
+            background: gold;
+        }
+        .guideimg img{
+            width: 140px;
+            border-radius: 18px;
+        }
+        .guideimg p{
+            font-size: 17px;
+        }
+        .offer img{
+            width: 140px;
+            border-radius: 18px;
+        }
+        .offer p{
+            font-size: 17px;
+        }
+        .navbarlast{
+            padding-left: 20px;
+        }
+        .navbarlast h1{
+            font-size: 17px;
+        }
+        .navbarlast li{
+            font-size: 14px;
+        }
+        .lastpost{
+            padding-left: 20px;
+        }
+        .lastpost h1{
+            font-size: 20px;
+        }
+        .lastp p{
+            font-size: 14px;
+        }
+        .lastpost .lastp img{
+            width: 100px;
+            padding: 3px;
+        }
+        .lastp p{
+            width: 300px;
+            padding-left: 3px;
+        }
+        .follow h1{
+            font-size: 20px;
+        }
+        .follow p{
+            font-size: 14px;
+        }
+        .follow img{
+            width: 140px;
+        }
+    
+
+}
+
+@media(max-width:699.9px){
+    .top:hover{
+        border: none;
+        color: gold;
+        font-size: 17px;
+        font-weight: bold;
+    }
+    .navbar-nav{
+        position: absolute;
+        right: 0;
+        left: 0;
+        margin: auto;
+        width: 350px;
+        background: linear-gradient(rgba(234, 173, 4, 0.962),rgba(29, 31, 31, 0.511));
+        transition: 0.5s;
+        border-radius: 5px ;
+        padding: 20px 0px ;
+    }
+    .navbar-barnd{
+        font-size: 25px;
+    }
+    .mycol{
+        font-size: 35px;
+    }
+    .mycola{
+        font-size: 23px;
+    }
+    .mycolb{
+        font-size: 12px;
+        width:500px;
+    }
+    .services .servicetext{
+        font-size: 20px;
+        padding-left: 20px;
+    }
+
+    .imgserviceA img{
+        width: 90px;
+        border-radius: 14px;
+    }
+    .videoarea{
+        text-align: center;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .areaA h1{
+        font-size: 25px;
+    }
+    .areaA p{
+        display: inline;
+        text-align: justify;
+        margin-top: 1px;
+        font-size: 12px;
+    }
+    .spana{
+        display: none;
+    }
+    .videoarea .areaB video{
+        width: 380px;
+        padding: 2px;
+        background: gold;
+    }
+    .guideimg img{
+        width: 90px;
+        border-radius: 14px;
+    }
+    .guideimg p{
+        font-size: 13px;
+    }
+    .offer img{
+        width: 90px;
+        border-radius: 14px;
+    }
+    .offer p{
+        font-size: 14px;
+    }
+    .navbarlast{
+        padding-left: 20px;
+    }
+    .navbarlast h1{
+        font-size: 14px;
+    }
+    .navbarlast li{
+        font-size: 12px;
+    }
+    .lastpost{
+        padding-left:20px;
+    }
+    .lastpost h1{
+        font-size: 15px;
+    }
+    .lastp p{
+        display: none;
+    }
+    .lastp .span{
+        display: inline-block;
+        font-size: 12px;
+        color: rgb(210, 210, 195) ;
+    }
+    .lastpost .lastp img{
+        width: 60px;
+        padding: 3px;
+    }
+    .follow h1{
+        font-size: 15px;
+    }
+    .follow p{
+        font-size: 12px;
+    }
+    .follow img{
+        width: 120px;
+    }
+    #add{
+        padding: 30px;
+    }
+
+}
+
+@media(min-width:550px) and (max-width:699.9px){
+    .navbar-nav{
+        position: absolute;
+        right: 0;
+        left: 0;
+         margin: auto;
+    }
+    .lastp .span{
+        display: inline-block;
+        font-size: 14px;
+        color: rgb(210, 210, 195) ;
+    }
+    .lastpost .lastp img{
+        width: 60px;
+        padding: 3px;
+    }
+    .follow img{
+        width: 110px;
+    }
+    .spana{
+        display: none;
+    }
+
+}
+@media(max-width:399.9px){
+    .navbar-nav{
+        width: 240px;
+        position: absolute;
+        right: 0;
+        left: 0;
+         margin: auto;
+    }
+    .imgserviceA img{
+        width: 60px;
+        border-radius: 20px;
+    }
+    .spanb{
+        display: none;
+    }
+    .areaA h1{
+        font-size: 14px;
+    }
+    .videoarea .areaB video{
+        width: 250px;
+    }
+    .guideimg img{
+        width: 60px;
+    }
+    .guideimg p{
+        font-size: 10px;
+    }
+    .offer img{
+        width: 60px;
+    }
+    .offer p{
+        font-size: 12PX;
+    }
+    .follow img{
+        width: 60px;
+    }
+    .follow p{
+        font-size: 10px ;
+    }
+    .lastpost{
+        padding-right: 10px;
+        padding-left: 5px;
+    }
+    .lastpost h1{
+        font-size: 15px;
+    }
+
+    .lastp .span{
+        font-size: 10px;
+    }
+    .lastpost .lastp img{
+        width: 40px;
+        padding: 3px;
+    }
+    .navbar-brand{
+        font-size: 15px;
+    }
+    .mycol{
+        font-size: 25px;
+    }
+    .mycola{
+        font-size: 20px;
+    }
+    .mycolb{
+        font-size: 12px;
+    }
+    .btn{
+        font-size: 10px;
+    }
+}

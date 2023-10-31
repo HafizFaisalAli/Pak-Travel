@@ -1,0 +1,253 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    list-style: none;
+    /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+}
+
+/* head start  */
+.head{
+    background-image:url(../Media/area5.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.heada{
+    background: rgb(219, 203, 203) ;
+}
+.overlear{
+    background: linear-gradient(rgba(234, 173, 4, 0.962),rgba(29, 31, 31, 0.511));
+    height: 100vh;
+}
+
+/* nav start  */
+
+.navbar-brand img{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: -10px;
+}
+.navbar-brand{
+    font-size: 27px;
+    font-weight: bold;
+}
+.top:hover{
+    color: white;
+    border-bottom: 1px solid red;  
+}
+.navbar-brand:hover{
+    color: gold;
+}
+.navbar-nav a{
+    margin: 0px 10px;
+}
+.collapse{
+    position: relative;
+}
+
+/* nav end  */
+
+.mycol{
+    font-size: 55px;
+    font-weight: bold;
+    color:gold;
+    line-height: 55px;
+}
+.mycola{
+    font-size: 35px;
+    font-weight: bold;
+    color: white;
+    /* position: relative; */
+    /* top: -10px; */
+}
+.mycolb{
+    color: wheat;
+    text-transform: capitalize;
+}
+/* head end  */
+
+/* services start  */
+.services{
+    background: rgb(219, 203, 203);
+}
+.services .servicetext{
+    color: white;
+    font-size: 35px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.imgserviceA{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+
+}
+.imgserviceA img{
+    width: 200px;
+    border-radius: 20px;
+    border: 2px solid white;
+}
+.add{
+    text-align:center ;
+    background-color: aliceblue;
+    margin: 20px 0px;
+}
+
+/* services end  */
+
+/* strat videoarea */
+.textarea{
+    margin: 80px 50px;
+}
+.videoarea{
+    margin: 50px 10px;
+    display: flex;
+    justify-content: space-around;   
+}
+.videoarea .areaB video{
+    width: 500px;
+    padding: 2px;
+    background: gold;
+    margin-top: 20px ;
+}
+.areaA p{
+    margin-top: 15px;
+    width: 550px;
+    text-align: justify;
+}
+
+/* end videoarea  */
+
+/* guide area start  */
+.services .servicetext{
+    color: white;
+    font-size: 35px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.guideimgarea{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+
+}
+.guideimg img{
+    width: 200px;
+    border-radius: 20px;
+    border-radius: 20px;
+    border: 2px solid white;
+}
+.guideimg p{
+    text-align: center;
+    padding-top: 10px;
+    font-size: 20px;
+}
+.add{
+    text-align:center ;
+    background-color: aliceblue;
+    margin: 20px 0px;
+}
+
+/* guide area end  */
+
+/* offer area start  */
+.services .servicetext{
+    color: white;
+    font-size: 35px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.offerarea{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+
+}
+.offer img{
+    width: 200px;
+    border-radius: 20px;
+    border-radius: 20px;
+    border: 2px solid white;
+}
+.offer p{
+    text-align: center;
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+/* offer area end  */
+
+/* footer start  */
+.footer{
+    background-color: dimgray;
+    display: flex;
+    justify-content: space-evenly;
+}
+.navbarlast{
+    padding-top: 30px;
+    padding-left: 30px;
+}
+.span{
+    display: none;
+}
+.navbarlast h1{
+    color: rgb(179, 179, 167);
+    font-size: 20px;
+}
+.navbarlast li{
+    color: rgb(210, 210, 195);
+}
+
+
+.lastpost{
+    padding-top: 20px;
+    padding-left: 10px;
+}
+.lastpost h1{
+    font-size: 30px;
+    color: rgb(179, 179,167);
+}
+.lastpost .lastp img{
+    width: 100px;
+}
+.lastp{
+    display: flex;
+}
+.lastp p{
+    width: 450px;
+    padding-left: 5px;
+    color: rgb(210, 210, 195);
+}
+
+.lastp img{
+    padding: 5px;
+}
+
+
+
+.follow{
+    padding-top:20px;
+}
+.follow h1{
+    font-size: 30px;
+    color: rgb(179, 179,167);
+}
+.follow p{
+    color: rgb(210, 210, 195);
+}
+.follow img{
+    width: 200px;
+}
+
+/* footer end  */
+
+.dend{
+    text-align: center;
+    padding: 20px;
+    background-color: dimgray;
+    color: rgb(179, 179, 167);
+}
+
